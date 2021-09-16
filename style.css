@@ -1,0 +1,150 @@
+body{
+    font-family: 'Barlow', sans-serif;
+
+    text-align: center;
+}
+
+body h1, h2, h3{
+   color: #66BFBF;
+}
+body h1{
+    font-size: 70px;
+    font-family: 'Dancing Script', cursive;
+}
+body h2{
+    font-size: 40px;
+}
+body h3{
+    font-size: 20px;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    background-color:rgb(192, 219, 210, 0.5) ;
+}
+.top-container p{
+    color: #66BFBF;
+    font-size: 40px;
+    text-align: center;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.middle-container {
+   
+   position: relative;
+margin: 15%; 
+ flex-direction: column;
+
+  
+   
+ }
+
+.foto{
+    position: relative;
+    top: 50px;
+    width: 400px;
+    height: 400px;
+}
+
+.middle-container p{
+   
+   margin-left: 400px;
+    height: 500px;
+    width: 500px;
+    margin-bottom: 0;
+  
+}
+
+.middle-container h4{
+    position: relative;
+   top:  0px;
+    color: #969b9b;
+    font-size: 30px;
+}
+
+.dados{
+    display: flex;
+    flex-direction: row;
+    width: 800px;
+    height: 800px;
+}
+
+.dados img{
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    
+}
+.dados #img{
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin-right: -290px;
+    margin-left: 300px;
+    
+}
+.dados div{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.dados div p{
+    
+    margin-left:310px;
+    text-align: justify;
+    
+}
+
+#paragrafo{
+    font-size: 17px;
+    text-align: center;
+}
+
+button{
+    background-color: #5dc4c4 ;
+    border: none;
+    color: azure;
+    border-radius: 5px;
+    height: 30px;
+    width: 150px;
+}
+
+.bottom-container{
+   margin-top: 20;
+   margin-bottom: 0%;
+   height: 150px;
+    background-color: #5dc4c4;
+}
+
+.links a{
+ text-align: center;
+ color: #11999E;
+ text-decoration: none 
+  
+}
+
+a:hover{
+    color: azure; 
+}
+
+.ano{
+    align-items: center;
+    color: azure;
+    margin-bottom: -200px;
+}

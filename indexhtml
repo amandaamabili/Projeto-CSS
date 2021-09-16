@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Amanda Amabili</title>
+    <link rel="stylesheet" href="./styleprof.css" />
+    <link rel="icon" href="favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,400&family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="top-container">
+        <img class="top-cloud" src="./img/cloud.png" alt="cloud-img" />
+        <h1>Eu sou Amanda Amabili</h1>
+        <p>Uma <span class="pro">pro</span>gramadora</p>
+        <img class="bottom-cloud" src="./img/cloud.png" alt="cloud-img" />
+        <img src="./img/mountain.png" alt="mountain-img" />
+    </div>
+    <div class="middle-container">
+        <img class="foto" src="./img/1568637276535 (1).png" alt="woman-image">
+        <h2>Hello</h2>
+        <p >Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores labore deserunt eos numquam tempora vel,
+            cupiditate voluptate, officiis eligendi quibusdam amet commodi quia ad adipisci laborum alias magnam vero.
+            Voluptatibus.</p>
+        <h4>.....</h4>
+        <h2>My Skills</h2>
+
+        <div class="dados">
+            <img  id="img" src="./img/pc.png" alt="foto-de-uma-web">
+            <div>
+                <h3>Design & Development</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi rerum iste sed quam, ipsa culpa.
+                    Quis accusantium dolorum eaque, perferendis fugiat atque iure, delectus inventore nihil est quod,
+                    deserunt assumenda.</p>
+            </div>
+
+        </div>
+
+        <div class="dados">
+
+            <div>
+                <h3>Design & Development</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi rerum iste sed quam, ipsa culpa.
+                    Quis accusantium dolorum eaque, perferendis fugiat atque iure, delectus inventore nihil est quod,
+                    deserunt assumenda.</p>
+            </div>
+
+            <img src="./img/pimenta.png" alt="foto-de-uma-web">
+
+        </div>
+
+        <h4>.....</h4>
+
+        <h2>Get In Touch</h2>
+
+        <h3>If you love hot wings as much as I do</h3>
+
+        <p id="paragrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto sint numquam accusamus ex reiciendis
+        </p>
+
+        <button>CONTACTE-ME</button>
+
+    </div>
+    <div class="bottom-container">
+        <div class="links">
+            <a href="http://">Linkedin</a>
+            <a href="http://">Twitter</a>
+            <a href="http://">Website</a>
+        </div>
+
+        <div class="ano">
+            <h4>2021 jsjshshdggdgdgd</h5>
+        </div>
+    </div>
+</body>
+
+</html>
